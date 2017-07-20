@@ -1,0 +1,9 @@
+<launch>
+  <!-- ROBOT GENERIC SIMULATION LAUNCH FILE -->
+
+
+  <!-- DYNAMICS -->
+  <rosparam command="load" file="$(find simulation)/config/robot_dynamics.yaml"/>
+  <node name="simulation" pkg="simulation" type="robot_dynamics.py" respawn="false"/>
+   
+</launch>

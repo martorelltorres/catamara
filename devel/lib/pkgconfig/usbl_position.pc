@@ -1,0 +1,8 @@
+prefix=/home/antoni/robot_ws/devel
+
+Name: usbl_position
+Description: Description of usbl_position
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/antoni/robot_ws/devel/lib 
+Requires: message_runtime rospy roscpp safety evologics_ros_sync auv_msgs control

@@ -1,0 +1,2 @@
+cat_arch:emlid_reach_tcp:evologics_ros_sync:ros_arduino_bridge/ros_arduino_bridge:ros_arduino_bridge/ros_arduino_firmware:ros_arduino_bridge/ros_arduino_msgs:ros_arduino_bridge/ros_arduino_python:usbl_position
+-DCATKIN_DEVEL_PREFIX=/home/antoni/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/antoni/robot_ws/install -G Unix Makefiles

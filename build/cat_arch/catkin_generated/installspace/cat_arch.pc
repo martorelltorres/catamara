@@ -1,0 +1,8 @@
+prefix=/home/antoni/robot_ws/install
+
+Name: cat_arch
+Description: Description of cat_arch
+Version: 0.0.0
+Cflags: -I/home/antoni/robot_ws/install/include
+Libs: -L/home/antoni/robot_ws/install/lib 
+Requires: joy roscpp rospy sensor_msgs std_msgs std_srvs message_runtime

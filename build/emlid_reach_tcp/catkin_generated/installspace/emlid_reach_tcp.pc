@@ -1,0 +1,8 @@
+prefix=/home/antoni/robot_ws/install
+
+Name: emlid_reach_tcp
+Description: Description of emlid_reach_tcp
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/antoni/robot_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/antoni/robot_ws/install
+
+Name: evologics_ros_sync
+Description: Description of evologics_ros_sync
+Version: 0.0.0
+Cflags: -I/home/antoni/robot_ws/install/include
+Libs: -L/home/antoni/robot_ws/install/lib 
+Requires: 
